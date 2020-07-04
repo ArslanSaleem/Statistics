@@ -3,6 +3,7 @@
 # Prerequisites Libraries
 1- boost 
 
+# Usage
 Calculate stats on Streaming data
  1- Mean 
  2- Variance
