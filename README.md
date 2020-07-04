@@ -3,10 +3,10 @@
 # Prerequisites Libraries
 1- boost 
 
-Calculate stats on Streaming data
- 1- Mean
- 2- Variance 
- 3- Standard Deviation
+Calculate stats on Streaming data \n
+ 1- Mean \n
+ 2- Variance \n 
+ 3- Standard Deviation \n
 
 Example Usage:
 
